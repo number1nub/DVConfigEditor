@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DataTypes>
+  <Data>
+    <Name>DMODE</Name>
+    <DataType>String</DataType>
+  </Data>
+  <Data>
+    <Name>BDTF_SEN</Name>
+    <DataType>String</DataType>
+  </Data>
+  <Data>
+    <Name>TTF_SEN</Name>
+    <DataType>String</DataType>
+  </Data>
+  <Data>
+    <Name>MCSTAT</Name>
+    <DataType>Hex2Bin (16)</DataType>
+  </Data>
+  <Data>
+    <Name>DCSTAT</Name>
+    <DataType>Hex2Bin (15)</DataType>
+  </Data>
+  <Data>
+    <Name>DCSTAT2</Name>
+    <DataType>Hex2Bin (15)</DataType>
+  </Data>
+</DataTypes>
