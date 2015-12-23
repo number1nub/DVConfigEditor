@@ -321,9 +321,9 @@
 						<Color>Lime</Color>
 						<Line>Line</Line>
 						<SymbolType></SymbolType>
-						<Custom>Line</Custom>
-						<MinYaxis>Cross</MinYaxis>
-						<MaxYaxis>Cross</MaxYaxis>
+						<Custom></Custom>
+						<MinYaxis></MinYaxis>
+						<MaxYaxis></MaxYaxis>
 					</Line>
 				</Y-Axis>
 			</Chart>

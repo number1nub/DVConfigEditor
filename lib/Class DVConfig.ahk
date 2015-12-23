@@ -8,8 +8,8 @@ Class DVConfig
 		}
 		this.xml:=tmpObj, tmpObj:=""
 		SplitPath, fPath,,,, nne
-		this._file := fPath
-		this._name := nne
+		this.File := fPath
+		this.Name := nne
 	}
 	
 	File[] {

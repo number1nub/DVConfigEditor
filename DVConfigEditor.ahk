@@ -15,6 +15,8 @@ return
 #Include <Class DVConfig>
 #Include <Class XML>
 #Include <ConfigTreeDisplay>
+#Include <DVConfigGUI>
+#Include <Gui>
 #Include <m>
 #Include <SelectConfig>
 #Include <sn>
